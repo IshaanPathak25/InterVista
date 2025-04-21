@@ -1,0 +1,2 @@
+# InterVista
+Intervista is an AI-powered tool that helps users prepare for job interviews by providing random questions, analyzing their responses using NLP, and offering feedback on areas of improvement. Get personalized suggestions and track your progress as you prepare for technical, behavioral, and HR interviews.
