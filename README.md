@@ -31,3 +31,15 @@ Built with modern design using Tailwind CSS – looks great on all devices!
 - 🚀 **Deployment**: Vercel / Netlify
 
 ---
+
+## 🧑‍💻 Getting Started
+
+Here’s how to set up the project on your local machine:
+
+1. **Clone the repository** 📥
+   ```bash
+   git clone https://github.com/IshaanPathak25/InterVista.git
+   cd InterVista
+2. **Install dependencies** 📦
+   ```bash
+   npm install
