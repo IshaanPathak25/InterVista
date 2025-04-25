@@ -43,7 +43,7 @@ Here’s how to set up the project on your local machine:
 2. **Install dependencies** 📦
    ```bash
    npm install
-3. **Set environment variables** ⚙️
+3. **Set environment variables** ⚙️  
    Create a `.env.local` file in the root folder:
    ```env
    NEXT_PUBLIC_API_URL=http://localhost:3000/api
