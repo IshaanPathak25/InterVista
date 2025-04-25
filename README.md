@@ -44,8 +44,7 @@ Here’s how to set up the project on your local machine:
    ```bash
    npm install
 3. **Set environment variables** ⚙️
-   ---
-   Create a .env.local file in the root folder:
+   Create a `.env.local` file in the root folder:
    ```env
    NEXT_PUBLIC_API_URL=http://localhost:3000/api
    JWT_SECRET=your_jwt_secret_key
