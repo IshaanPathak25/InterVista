@@ -1,27 +1,32 @@
-🎯 InterVista - Your Smart Interview Companion
-Welcome to InterVista, an AI-powered platform that helps you prepare for interviews, track your performance, and get better with every try! Whether you're a job seeker or just practicing, InterVista is here to guide you. 💼🤖
+# 🎯 InterVista - Your Smart Interview Companion
 
-🚀 Features
-✨ Random Interview Questions
-Get asked random questions across different categories like HR, technical, and logical reasoning.
+Welcome to **InterVista**, an AI-powered platform that helps you **prepare for interviews**, track your performance, and improve with every try! Whether you're a job seeker or just practicing, InterVista is here to guide you. 💼🧠
 
-🧠 Smart Answer Comparison
-Compare your answers with ideal ones and learn how to improve.
+---
 
-📊 Feedback & Suggestions
-Receive instant feedback and personalized tips to improve your responses.
+## 🚀 Features
 
-📈 Progress Tracking
-Track how you're doing over time and see which areas need attention.
+✨ **Random Interview Questions**  
+Get asked random questions from various categories like HR, technical, and logical reasoning.
 
-🎨 Simple & Clean Design
-User-friendly and mobile-ready interface – practice anywhere, anytime!
+🤖 **AI Answer Comparison**  
+See how your answers stack up against ideal responses and learn how to improve.
 
-🛠️ Tech Stack
-Frontend: Next.js, Tailwind CSS, Magic UI
+📊 **Instant Feedback & Tips**  
+Receive quick suggestions on what you did well and where you can do better.
 
-Backend: Node.js
+📈 **Progress Tracking**  
+See how you're improving over time with helpful performance insights.
 
-Authentication: Clerk
+🎨 **Clean & Responsive UI**  
+Built with modern design using Tailwind CSS – looks great on all devices!
 
-Deployment: Netlify
+---
+
+## 🛠️ Tech Stack
+
+- 🧩 **Frontend**: Next.js, Tailwind CSS
+- 🔐 **Authentication**: JWT (JSON Web Tokens)
+- 🚀 **Deployment**: Vercel / Netlify
+
+---
