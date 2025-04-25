@@ -26,7 +26,8 @@ Built with modern design using Tailwind CSS – looks great on all devices!
 ## 🛠️ Tech Stack
 
 - 🧩 **Frontend**: Next.js, Tailwind CSS
-- 🔐 **Authentication**: JWT (JSON Web Tokens)
+- 🔧 **Backend**: Node.js, Express.js
+- 🔐 **Authentication**: Clerk
 - 🚀 **Deployment**: Vercel / Netlify
 
 ---
